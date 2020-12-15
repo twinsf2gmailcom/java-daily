@@ -1,0 +1,10 @@
+.chart-container {
+    position: relative; 
+    height: 50vh; 
+    width: 90vw;
+}
+
+.myChart {
+    display: block;    
+}
+
